@@ -1,0 +1,769 @@
+[
+  {
+    "qNumber": 1,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 2,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 3,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 4,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 5,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 6,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 7,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 8,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 9,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 10,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a1q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 11,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 12,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 13,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 14,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 15,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 16,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 17,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 18,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 19,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 20,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 21,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q11.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 22,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q12.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 23,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a2q13.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 24,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 25,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 26,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 27,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 28,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 29,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 30,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 31,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 32,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 33,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 34,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q11.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 35,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q12.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 36,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a3q13.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 37,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 38,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 39,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 40,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 41,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 42,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 43,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 44,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 45,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 46,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a4q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 47,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 47,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 48,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 49,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 50,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 51,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 52,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 53,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 54,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 55,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a5q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 56,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 57,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 58,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 59,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 60,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 61,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 62,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 63,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 64,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 65,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a6q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  
+  {
+    "qNumber": 66,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 67,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 68,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 69,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 70,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 71,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 72,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 73,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 74,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 75,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a7q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+
+  {
+    "qNumber": 76,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 77,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 78,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 79,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 80,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 81,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 82,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 83,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 84,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 85,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a8q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+
+  {
+    "qNumber": 86,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 87,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 88,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 89,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 90,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 91,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 92,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 93,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 94,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 95,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a9q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+
+  {
+    "qNumber": 96,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 97,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 98,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 99,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 100,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 101,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 102,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 103,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 104,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 105,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a10q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+
+  {
+    "qNumber": 106,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 107,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 108,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 109,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 110,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 111,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 112,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 113,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+  {
+    "qNumber": 114,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 115,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a11q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+
+  {
+    "qNumber": 116,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q1.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 117,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q2.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  },
+  {
+    "qNumber": 118,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q3.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 119,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q4.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 120,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q5.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 3
+  },
+  {
+    "qNumber": 121,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q6.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 2
+  },
+    {
+    "qNumber": 122,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q7.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 123,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q8.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 124,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q9.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 1
+  },
+  {
+    "qNumber": 125,
+    "image": "https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_mg88/a12q10.PNG",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0
+  }
+]
+
+
+  
+
+  

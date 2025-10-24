@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Quiz Portal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="main-header">
+    <div class="title">E-Business (NPTEL Practice Quiz {ALL Weekly Questions Covered})</div>
+    
+    <div class="timer-box">🕒 <span id="timer">00:00</span></div>
+  </header>
+  <br>
+  <br>
+
+  <main class="quiz-container">
+    <!-- LEFT SIDE QUESTION PANEL -->
+    <section class="question-section">
+      <div id="question-box">
+        <h2>Question <span id="q-number">1</span>:</h2>
+        <p id="question-text">Loading question...</p>
+      </div>
+
+      <div id="options" class="options"></div>
+
+      <!-- 🔍 Added Search Button -->
+      <!-- <div class="search-box">
+        <button id="search-google" class="btn blue">🔍 Search this question on Google</button>
+      </div> -->
+
+      <div class="btn-row">
+        <button id="save-next" class="btn green">Save & Next</button>
+        <button id="mark-review" class="btn yellow">Save & Mark for Review</button>
+        
+      </div>
+
+      <div class="btn-row">
+       
+        <button id="submit" class="btn blue">Submit</button>
+      </div>
+
+      <!-- Feedback Box -->
+<div id="feedback-box" class="feedback hidden"></div>
+
+    </section>
+
+    <!-- RIGHT SIDE QUESTION NAVIGATION -->
+   <!-- RIGHT SIDE QUESTION NAVIGATION -->
+<aside class="question-nav">
+  <h3>Question Navigator</h3>
+
+  <div id="question-grid" class="grid"></div>
+
+  <!-- 🔹 JEE-style Compact Legend -->
+  <div class="legend">
+    <div class="legend-item"><div class="legend-box not-visited"></div> Not Visited</div>
+    <div class="legend-item"><div class="legend-box not-answered"></div> Not Answered</div>
+    <div class="legend-item"><div class="legend-box answered"></div> Answered</div>
+    <div class="legend-item"><div class="legend-box review"></div> Review</div>
+  </div>
+
+  <!-- ✅ Compact Status Summary -->
+  <div class="summary compact-summary">
+    <p>NV: <span id="count-not-visited">0</span> | NA: <span id="count-not-answered">0</span></p>
+    <p>A: <span id="count-answered">0</span> | R: <span id="count-review">0</span></p>
+  </div>
+</aside>
+
+<!-- Floating button for mobile navigator -->
+<div class="floating-nav-btn">☰</div>
+
+
+  </main>
+
+  <section id="result-section" class="hidden">
+    <h2>✅ Quiz Completed!</h2>
+    <p>Correct Answers: <span id="correct">0</span></p>
+    <p>Wrong Answers: <span id="wrong">0</span></p>
+    <p>Total Questions: <span id="total">0</span></p>
+    <p>Total Time Taken: <span id="final-time">00:00</span></p>
+    <button id="restart" class="btn blue">Restart</button>
+  </section>
+
+  <script src="script.js"></script>
+
+  <script>
+
+
+const nav = document.querySelector('.question-nav');
+const btn = document.querySelector('.floating-nav-btn');
+
+btn.addEventListener('click', (e) => {
+  e.stopPropagation();
+  const isOpen = nav.classList.contains('open');
+  if (isOpen) {
+    closeNav();
+  } else {
+    openNav();
+  }
+});
+
+document.addEventListener('click', (e) => {
+  if (nav.classList.contains('open') && !nav.contains(e.target) && !btn.contains(e.target)) {
+    closeNav();
+  }
+});
+
+function openNav() {
+  nav.classList.add('open');
+  btn.classList.add('active');
+  document.body.classList.add('nav-open');
+}
+
+function closeNav() {
+  nav.classList.remove('open');
+  btn.classList.remove('active');
+  document.body.classList.remove('nav-open');
+}
+
+
+</script>
+
+
+
+
+
+
+</body>
+</html>
